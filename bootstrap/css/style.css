@@ -1,0 +1,36 @@
+.content{
+    height:80px;
+    padding:10px;
+    margin:10px;
+    text-align: center;
+    color:white;
+}
+.color1{
+    background-color:#C97C5D;
+}
+.color2{
+    background-color: #94B0DA;
+}
+.color3{
+    background-color:#D84797;
+}
+.color4{
+    background-color: #84BC9C;
+}
+.color5{
+    background-color:#E3B23C;
+}
+.color6{
+    background-color: #03FCBA;
+}
+.isize{
+    font-size:30px;
+    color:white;
+}
+.imgheight{
+    height:150px;
+}
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+  }
